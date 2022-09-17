@@ -105,6 +105,6 @@ sns.boxplot(x='height',data=df2)
 ## Weight after performing IQR:
 ![output](https://github.com/ragulmani936/Ex02-Outlier/blob/main/image%205.png)
 ## Column Height without any actions:
-![output]()
+![output](https://github.com/ragulmani936/Ex02-Outlier/blob/main/image%206.png)
 ## Height after performing IQR:
 ![output]()
