@@ -90,3 +90,19 @@ df2 =df[((df['height']>=ll)&(df['height']<=ul))]
 df2
 sns.boxplot(x='height',data=df2)
 ~~~
+
+## OUTPUT:
+## Column price_per_sqft before:
+![output]()
+## Column price_per_sqft after performing IQR:
+![output]()
+## Column price_per_sqft after performing zscore of 3:
+![output]()
+## Column Weight without any actions:
+![output]()
+## Weight after performing IQR:
+![output]()
+## Column Height without any actions:
+![output]()
+## Height after performing IQR:
+![output]()
