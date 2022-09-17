@@ -101,7 +101,7 @@ sns.boxplot(x='height',data=df2)
 ## Column price_per_sqft after performing zscore of 3:
 ![output](https://github.com/ragulmani936/Ex02-Outlier/blob/main/image%203.png)
 ## Column Weight without any actions:
-![output]()
+![output](https://github.com/ragulmani936/Ex02-Outlier/blob/main/image%204.png)
 ## Weight after performing IQR:
 ![output]()
 ## Column Height without any actions:
